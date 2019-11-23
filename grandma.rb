@@ -16,4 +16,5 @@ def speak_to_grandma(input)
     return "HUH?! SPEAK UP, SONNY!"
   elsif "#{input}".upcase
     return
+  end
 end
